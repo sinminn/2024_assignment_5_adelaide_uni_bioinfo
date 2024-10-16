@@ -10,3 +10,7 @@
 
 - Initial commit
 
+## [0.1.2] - 2024-10-16
+
+### Changed
+- Removed 3 instances of 'XXXXXXX' inserted in Line 3 of a1843355.txt
