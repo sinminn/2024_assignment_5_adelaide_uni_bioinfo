@@ -16,4 +16,8 @@
 
 - Removed 3 instances of 'XXXXXXX' inserted in Line 3
 
+## [0.1.3] - 2024-10-16
 
+## Changed
+
+- Substituted 3 instances of UPPERCASE strings to lowercase in Line 3
